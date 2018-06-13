@@ -1,0 +1,19 @@
+{
+  "name": "bus_tracking_admin",
+  "version": "1.0.0",
+  "description": "Administrator's interface for Bus Tracking ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SE Team 6",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "firebase": "^4.6.2",
+    "firebase-admin": "^5.5.0",
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2"
+  }
+}
